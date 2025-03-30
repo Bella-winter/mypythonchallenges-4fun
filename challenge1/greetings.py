@@ -35,7 +35,7 @@ birth_year = input("What year were you born? ")
 age = 2025 - int(birth_year)
 print(age)
 # Convert the shoe size to an integer
-# Use the shoe size to calculate the users height
+# Use the shoe size to calulate the users height
 height = int(shoe_size) + 10
 # Ask for users instagram
 instagram = input("What is your instagram? ")
@@ -63,11 +63,11 @@ print(f"You are {age} years old.")
 print(f"Your favorite music is {music}.")
 print(f"Your shoe size is {shoe_size}.")
 print(f"Your instagram is {instagram}.")
-print(f"Your snapchat is {snapchat}.")
+print(f"Your snapchat is {snapchat}.")i
 print(f"Your twitter is {twitter}.")
 print(f"Your facebook is {facebook}.")
 print(f"Your linkedin is {linkedin}.")
 print(f"Your tiktok is {tiktok}.")
-print(f"Your favourite quote is {quote}.")
+print(f"Your favourite quote is {quote}.")luna
 
-print(f"Thank you for sharing a bit about yourself! Have a great day! 😊.")
+print(f"Thank you for sharing a bit about yourself! Have a great day! 😊.")l
